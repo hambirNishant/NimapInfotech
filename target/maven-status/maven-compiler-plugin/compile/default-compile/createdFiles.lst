@@ -1,0 +1,8 @@
+com\example\demo\SpringBootCrudExample1Application.class
+com\example\demo\repository\CategoryRepository.class
+com\example\demo\controller\Controller.class
+com\example\demo\model\Product.class
+com\example\demo\service\Service.class
+com\example\demo\model\Category.class
+com\example\demo\ResourceNotFoundException.class
+com\example\demo\controller\ProductController.class
